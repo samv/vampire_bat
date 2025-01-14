@@ -128,8 +128,8 @@ Bat XY joints (for set of 2):
   * 6x M3 nuts
   * 8x F623 bearings
 * New parts to buy
-  * 200mm MGN9H rail: high-preload (Z1)
-    * Rails can be slightly shorter (up to 50mm) and may work fine, by using the innermost two screws, instead of 3.
+  * 200mm MGN9H rail: high-preload (Z1) - note that this is 50mm longer than the v0 BOM rails.
+    * Rails can be slightly shorter (up to 50mm) and may work fine, by using the innermost two screws, instead of 3.  There is less rotational support for the rail, but this has been measured at under 0.3° which should not cause adverse effects.
   * 6x M3x8 SHCS
   * Pins Option
     * 4x 3mmx30mm Steel pins
